@@ -1,0 +1,10 @@
+Technique.class
+TechniqueEnum.class
+config\JaxRsConfig.class
+Wheel.class
+SkiLift.class
+SkiiTechniqueManager.class
+SnowBlower.class
+Service.class
+Light.class
+SpaTown.class
